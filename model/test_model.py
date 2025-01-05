@@ -1,4 +1,4 @@
-import pytest
+#import pytest
 from sklearn.linear_model import LinearRegression
 
 def test_model_training():
